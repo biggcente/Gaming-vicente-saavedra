@@ -1,6 +1,6 @@
-# 🎮 Proyecto: Página Web Gaming
+# Proyecto: Página Web Gaming
 
-## 📌 Descripción general del proyecto
+## Descripción general del proyecto
 Este proyecto consiste en el desarrollo de una página web estática sobre el mundo de los videojuegos. En ella se presenta información sobre la industria, destacando empresas importantes como Nintendo y Rockstar Games, junto con algunos de sus títulos más reconocidos.
 
 La página está construida utilizando HTML5 para la estructura y CSS3 para los estilos, organizando el contenido en secciones como navegación, descripción, creadores y lista de juegos.
