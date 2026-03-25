@@ -7,7 +7,7 @@ La página está construida utilizando HTML5 para la estructura y CSS3 para los 
 
 ---
 
-## 🚀 Mejoras realizadas
+## Mejoras realizadas
 
 En comparación con una versión básica, se implementaron las siguientes mejoras:
 
@@ -21,6 +21,6 @@ En comparación con una versión básica, se implementaron las siguientes mejora
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 - HTML5
 - CSS3
